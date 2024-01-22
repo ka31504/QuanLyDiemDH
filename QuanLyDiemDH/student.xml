@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Phạm Quang Khải</name>
+        <age>20</age>
+        <address>Hà Nội</address>
+        <SumScore>0.0</SumScore>
+        <mon1>10.0</mon1>
+        <mon2>10.0</mon2>
+        <mon3>10.0</mon3>
+        <Khoi>A</Khoi>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Nguyễn Thị Phương Anh</name>
+        <age>20</age>
+        <address>Hà Nội</address>
+        <SumScore>0.0</SumScore>
+        <mon1>9.0</mon1>
+        <mon2>9.0</mon2>
+        <mon3>9.0</mon3>
+        <Khoi>B</Khoi>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Trịnh Phúc Lương</name>
+        <age>20</age>
+        <address>Nam Định</address>
+        <SumScore>0.0</SumScore>
+        <mon1>8.0</mon1>
+        <mon2>8.0</mon2>
+        <mon3>8.0</mon3>
+        <Khoi>A1</Khoi>
+    </student>
+</students>
